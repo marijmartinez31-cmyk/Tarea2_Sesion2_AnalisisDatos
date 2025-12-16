@@ -1,4 +1,4 @@
-# Tarea2_Sesion2_AnalisisDatos_MJM
+# Analisis de Datos con IA
 **Nombre:** Mariana Jiménez Martínez
 
 *Curso TecnoChicas Pro*
