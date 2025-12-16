@@ -1,4 +1,4 @@
-# Tarea2_Sesion2_AnalisisDatos
+# Tarea2_Sesion2_AnalisisDatos_MJM
 **Nombre:** Mariana Jiménez Martínez
 
 *Curso TecnoChicas Pro*
